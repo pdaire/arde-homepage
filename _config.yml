@@ -1,18 +1,7 @@
 # Site settings
 title: Arde
 email: arde@proyectoarde.org
-<<<<<<< HEAD
-<<<<<<< HEAD
 url: https://pdaire.github.io #royectoarde.org
-baseurl: /arde-homepage
-=======
-url: proyectoarde.org
-baseurl: #/arde-homepage
->>>>>>> parent of b84d1ce... links redes sociales e info footer
-=======
-url: proyectoarde.org
-baseurl: #/arde-homepage
->>>>>>> parent of 8b75710... arreglos footer
 description: "Archivo de procesos creativos"
 
 # Color settings (hex-codes without the leading hash-tag)
